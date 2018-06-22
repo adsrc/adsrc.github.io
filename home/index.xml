@@ -103,7 +103,7 @@ I am a teaching instructor for the following courses at University X:
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://adsrc.github.io/home/contact/</guid>
-      <description> window.intergramId = &#34;374056946&#34;   </description>
+      <description>/* Chatbro Widget Embed Code Start */function ChatbroLoader(chats,async){async=!1!==async;var params={embedChatsParameters:chats instanceof Array?chats:[chats],lang:navigator.language||navigator.userLanguage,needLoadCode:&#39;undefined&#39;==typeof Chatbro,embedParamsVersion:localStorage.embedParamsVersion,chatbroScriptVersion:localStorage.chatbroScriptVersion},xhr=new XMLHttpRequest;xhr.withCredentials=!0,xhr.onload=function(){eval(xhr.responseText)},xhr.onerror=function(){console.error(&#39;Chatbro loading error&#39;)},xhr.open(&#39;GET&#39;,&#39;//www.chatbro.com/embed.js?&#39;+btoa(unescape(encodeURIComponent(JSON.stringify(params)))),async),xhr.send()}/* Chatbro Widget Embed Code End */ChatbroLoader({encodedChatId: &#39;22CGo&#39;}); </description>
     </item>
     
   </channel>
