@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Aditya Chetan @ IIITD</title>
-    <link>https://adsrc.github.io/home/</link>
+    <link>https://justachetan.github.io/home/</link>
     <description>Recent content in Homes on Aditya Chetan @ IIITD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aditya Chetan 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://adsrc.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://justachetan.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://adsrc.github.io/home/about/</link>
+      <link>https://justachetan.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/about/</guid>
+      <guid>https://justachetan.github.io/home/about/</guid>
       <description>Biography I am a an undergraduate student at Indraprastha Institute of Information Technology, Delhi, studying Computer Science and Applied Mathematics.
 I am always looking to learn more about topics in Computer Science. I enjoy working on multi-disciplinary projects and am always looking to build collaborations with new people from different disciplines.
 Currently, I am a part of Laboratory of Computational Social Systems at IIIT Delhi. I have been working on detecting collusive activities in online social networks.</description>
@@ -25,75 +25,75 @@ Currently, I am a part of Laboratory of Computational Social Systems at IIIT Del
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://adsrc.github.io/home/cv/</link>
+      <link>https://justachetan.github.io/home/cv/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://adsrc.github.io/home/cv/</guid>
+      <guid>https://justachetan.github.io/home/cv/</guid>
       <description>I am a Third-year undergraduate student at IIIT Delhi. My research interests are in Deep Learning and its applications in different disciplines, from Linguistics to Online Social Networks to Neuroscience.
 I dabbled with software development in my freshman year, and interned at Microsoft IGD. But by my second year I got interested in Deep Learning and Data Science and moved on to do research projects in these fields. I have had the chance to work with mentors from IBM India Research Laboratory.</description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://adsrc.github.io/home/hero/</link>
+      <link>https://justachetan.github.io/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/hero/</guid>
+      <guid>https://justachetan.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://adsrc.github.io/home/publications_selected/</link>
+      <link>https://justachetan.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/publications_selected/</guid>
+      <guid>https://justachetan.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://adsrc.github.io/home/publications/</link>
+      <link>https://justachetan.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/publications/</guid>
+      <guid>https://justachetan.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://adsrc.github.io/home/projects/</link>
+      <link>https://justachetan.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/projects/</guid>
+      <guid>https://justachetan.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://adsrc.github.io/home/talks/</link>
+      <link>https://justachetan.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/talks/</guid>
+      <guid>https://justachetan.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://adsrc.github.io/home/tags/</link>
+      <link>https://justachetan.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/tags/</guid>
+      <guid>https://justachetan.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://adsrc.github.io/home/teaching/</link>
+      <link>https://justachetan.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/teaching/</guid>
+      <guid>https://justachetan.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
@@ -101,19 +101,19 @@ I am a teaching instructor for the following courses at University X:
     
     <item>
       <title>Recent Posts</title>
-      <link>https://adsrc.github.io/home/posts/</link>
+      <link>https://justachetan.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/posts/</guid>
+      <guid>https://justachetan.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://adsrc.github.io/home/contact/</link>
+      <link>https://justachetan.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/contact/</guid>
+      <guid>https://justachetan.github.io/home/contact/</guid>
       <description> window.intergramId = &#34;374056946&#34;; window.intergramCustomizations = { titleClosed: &#39;Ping me!&#39;, titleOpen: &#39;Chat with me!&#39;, introMessage: &#39;Hi! I am Aditya. Feel free to ping me here! Please drop your name and email ID so that I can get back to you later!&#39;, mainColor: &#34;#E91E63&#34;, closedStyle: &#39;button&#39;, alwaysUseFloatingButton: false };   </description>
     </item>
     

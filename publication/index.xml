@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Aditya Chetan @ IIITD</title>
-    <link>https://adsrc.github.io/publication/</link>
+    <link>https://justachetan.github.io/publication/</link>
     <description>Recent content in Publications on Aditya Chetan @ IIITD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aditya Chetan 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://adsrc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://justachetan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Retweet Us, We Will Retweet You: Spotting Collusive Retweeters Involved in Blackmarket Services</title>
-      <link>https://adsrc.github.io/publication/collusive-retweeters/</link>
+      <link>https://justachetan.github.io/publication/collusive-retweeters/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/publication/collusive-retweeters/</guid>
+      <guid>https://justachetan.github.io/publication/collusive-retweeters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Clues for Gender based Occupation De-biasing in Text</title>
-      <link>https://adsrc.github.io/publication/gender-bias-system/</link>
+      <link>https://justachetan.github.io/publication/gender-bias-system/</link>
       <pubDate>Thu, 01 Jan 1970 06:03:38 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/publication/gender-bias-system/</guid>
+      <guid>https://justachetan.github.io/publication/gender-bias-system/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
