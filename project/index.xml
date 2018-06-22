@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Aditya Chetan</title>
+    <title>Projects on Aditya Chetan @ IIITD</title>
     <link>https://adsrc.github.io/project/</link>
-    <description>Recent content in Projects on Aditya Chetan</description>
+    <description>Recent content in Projects on Aditya Chetan @ IIITD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; Aditya Chetan 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://adsrc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
