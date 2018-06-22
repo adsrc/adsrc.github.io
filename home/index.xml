@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://adsrc.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://adsrc.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://adsrc.github.io/home/about/</guid>
+      <description>Biography I am a an undergraduate student at Indraprastha Institute of Information Technology, Delhi, studying Computer Science and Applied Mathematics.
+I am always looking to learn more about topics in Computer Science. I enjoy working on multi-disciplinary projects and am always looking to build collaborations with new people from different disciplines.
+Currently, I am a part of Laboratory of Computational Social Systems at IIIT Delhi. I have been working on detecting collusive activities in online social networks.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://adsrc.github.io/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://adsrc.github.io/home/cv/</guid>
+      <description>I am a Third-year undergraduate student at IIIT Delhi. My research interests are in Deep Learning and its applications in different disciplines, from Linguistics to Online Social Networks to Neuroscience.</description>
+    </item>
     
     <item>
       <title>Academic</title>
@@ -20,16 +40,6 @@
       <guid>https://adsrc.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://adsrc.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://adsrc.github.io/home/about/</guid>
-      <description>Biography I am a an undergraduate student at Indraprastha Institute of Information Technology, Delhi, studying Computer Science and Applied Mathematics. My research interests include, Deep Learning, Machine Learning, Natural Language Processing and OSNs. I am always looking to learn more about these topics. I enjoy working on multi-disciplinary projects and am always looking to build collaborations with new people from different disciplines.
-Currently, I am a part of Laboratory of Computational Social Systems at IIIT Delhi.</description>
     </item>
     
     <item>
@@ -51,6 +61,15 @@ Currently, I am a part of Laboratory of Computational Social Systems at IIIT Del
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>https://adsrc.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://adsrc.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://adsrc.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
@@ -60,20 +79,11 @@ Currently, I am a part of Laboratory of Computational Social Systems at IIIT Del
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>https://adsrc.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <title>Tags</title>
+      <link>https://adsrc.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://adsrc.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://adsrc.github.io/home/projects/</guid>
+      <guid>https://adsrc.github.io/home/tags/</guid>
       <description></description>
     </item>
     
@@ -89,11 +99,11 @@ I am a teaching instructor for the following courses at University X:
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>https://adsrc.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
+      <title>Recent Posts</title>
+      <link>https://adsrc.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/home/tags/</guid>
+      <guid>https://adsrc.github.io/home/posts/</guid>
       <description></description>
     </item>
     
@@ -103,7 +113,7 @@ I am a teaching instructor for the following courses at University X:
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://adsrc.github.io/home/contact/</guid>
-      <description>/* Chatbro Widget Embed Code Start */function ChatbroLoader(chats,async){async=!1!==async;var params={embedChatsParameters:chats instanceof Array?chats:[chats],lang:navigator.language||navigator.userLanguage,needLoadCode:&#39;undefined&#39;==typeof Chatbro,embedParamsVersion:localStorage.embedParamsVersion,chatbroScriptVersion:localStorage.chatbroScriptVersion},xhr=new XMLHttpRequest;xhr.withCredentials=!0,xhr.onload=function(){eval(xhr.responseText)},xhr.onerror=function(){console.error(&#39;Chatbro loading error&#39;)},xhr.open(&#39;GET&#39;,&#39;//www.chatbro.com/embed.js?&#39;+btoa(unescape(encodeURIComponent(JSON.stringify(params)))),async),xhr.send()}/* Chatbro Widget Embed Code End */ChatbroLoader({encodedChatId: &#39;22CGo&#39;}); </description>
+      <description> window.intergramId = &#34;374056946&#34;; window.intergramCustomizations = { titleClosed: &#39;Ping me!&#39;, titleOpen: &#39;Chat with me!&#39;, introMessage: &#39;Hi! I am Aditya. Feel free to ping me here! Please drop your name and email ID so that I can get back to you later!&#39;, autoResponse: &#39;Just a sec, be right with you!&#39;, autoNoResponse: &#39;Hey! Really sorry am a bit busy right now. Will ping you as soon as I am back!&#39;, mainColor: &#34;#E91E63&#34;, closedStyle: &#39;button&#39;, alwaysUseFloatingButton: false };   </description>
     </item>
     
   </channel>
