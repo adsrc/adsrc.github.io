@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Retweet Us, We Will Retweet You: Spotting Collusive Retweeters Involved in Blackmarket Services</title>
+      <link>https://adsrc.github.io/publication/collusive-retweeters/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://adsrc.github.io/publication/collusive-retweeters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://adsrc.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
@@ -236,21 +245,11 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://adsrc.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0530</pubDate>
+      <title>Generating Clues for Gender based Occupation De-biasing in Text</title>
+      <link>https://adsrc.github.io/publication/gender-bias-system/</link>
+      <pubDate>Thu, 01 Jan 1970 06:03:38 +0530</pubDate>
       
-      <guid>https://adsrc.github.io/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://adsrc.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0530</pubDate>
-      
-      <guid>https://adsrc.github.io/publication/clothing-search/</guid>
+      <guid>https://adsrc.github.io/publication/gender-bias-system/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
