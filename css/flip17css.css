@@ -51,7 +51,7 @@ That makes the main content white.
 
 
 #profile .portrait {
-  background-image: url('../img/portrait.jpg');
+  background-image: url('https://github.com/justachetan/justachetan.github.io/blob/master/img/footer.png');
   width: 230px;
   height: 230px;
   margin: 0 auto;
